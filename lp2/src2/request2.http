@@ -1,0 +1,5 @@
+### get
+
+GET http://127.0.0.1:3000/mm?action=minimum&nums=10,1,100
+
+
